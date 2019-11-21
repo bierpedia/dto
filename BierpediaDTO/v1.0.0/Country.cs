@@ -5,7 +5,7 @@ namespace Bierpedia.DTO {
 		public string Name { get; set; }
 		public string Description { get; set; }
 
-		public LinksBase _Links { get; set; }
+		public LinksBase Links { get; set; }
 
 	}
 
